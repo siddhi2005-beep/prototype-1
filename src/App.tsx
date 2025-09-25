@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { LanguageProvider } from './contexts/LanguageContext';
+import { LanguageProvider } from './context/LanguageContext';
 import Navigation from './components/Navigation';
 import Dashboard from './components/Dashboard';
 import Telemedicine from './components/Telemedicine';
